@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m @JacekSkrok currently I'm a PLC Developer
 - 👀 I’m interested in going into IT world 
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning Ionic
 
 - 📫 How to reach me ? Here is my email: wewopy@gmail.com
 
